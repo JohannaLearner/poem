@@ -8,3 +8,8 @@ I'm feeling very blue
 I'm feeling very green
 I have an interview
 Where I will be seen.
+
+Elle est retrouvée.
+Quoi? -L’Eternité.
+C’est la mer allée
+Avec le soleil.
