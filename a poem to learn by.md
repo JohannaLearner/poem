@@ -8,3 +8,9 @@ I'm feeling very blue
 I'm feeling very green
 I have an interview
 Where I will be seen.
+
+This is so boring that I will now indulge my love of old skool.
+
+So Chuck D wrote some of the best poetry.
+"I'm not a business man
+I'm a business, man"
