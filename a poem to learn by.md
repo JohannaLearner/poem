@@ -9,8 +9,15 @@ I'm feeling very green
 I have an interview
 Where I will be seen.
 
+Poets-I-like
 This is so boring that I will now indulge my love of old skool.
 
 So Chuck D wrote some of the best poetry.
 "I'm not a business man
-I'm a business, man"
+
+
+Elle est retrouvée.
+Quoi? -L’Eternité.
+C’est la mer allée
+Avec le soleil.
+main
