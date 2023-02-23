@@ -5,6 +5,7 @@ Ok, I'll learn with a poem, that's enough now, I'm saying goodbye, yes I said I 
 
 
 I'm feeling very blue
+I am a unicorn
 I'm feeling very green
 I have an interview
 Where I will be seen.
