@@ -1,3 +1,6 @@
+D'abord
+Efface ton nom
+Abolis ton age
 Learn with a poem
 Learn with a poem
 He said, "learn with a poem."
@@ -14,3 +17,5 @@ Elle est retrouvée.
 Quoi? -L’Eternité.
 C’est la mer allée
 Avec le soleil.
+
+Qui reste debout?
