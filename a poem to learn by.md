@@ -16,6 +16,4 @@ Where I will be seen.
 Elle est retrouvée.
 Quoi? -L’Eternité.
 C’est la mer allée
-Avec le soleil.
-
-Qui reste debout?
+Avec le soleil
