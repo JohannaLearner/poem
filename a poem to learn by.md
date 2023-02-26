@@ -17,3 +17,6 @@ Elle est retrouvée.
 Quoi? -L’Eternité.
 C’est la mer allée
 Avec le soleil
+
+Tout au long de tes jours
+te precedra ton enfance.
