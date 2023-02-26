@@ -19,3 +19,5 @@ C’est la mer allée
 Avec le soleil.
 
 Qui reste debout?
+Il ne faut pas pleurer parce que cela n'est plus 
+Yourcenar
