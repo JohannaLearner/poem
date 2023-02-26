@@ -14,3 +14,5 @@ Elle est retrouvée.
 Quoi? -L’Eternité.
 C’est la mer allée
 Avec le soleil.
+
+Rimbaud, le salaud,
