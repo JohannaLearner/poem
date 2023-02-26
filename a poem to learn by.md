@@ -19,3 +19,4 @@ C’est la mer allée
 Avec le soleil.
 
 Qui reste debout?
+Andree Chedid, je me revolte contre moi-meme.
