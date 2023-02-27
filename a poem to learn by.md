@@ -5,6 +5,7 @@ Learn with a poem
 Learn with a poem
 He said, "learn with a poem."
 Ok, I'll learn with a poem, that's enough now, I'm saying goodbye, yes I said I would learn with a poem.
+[reference Rimbaud](https://fr.wikipedia.org/wiki/Arthur_Rimbaud) clearly the above is not Rimbaud
 
 
 I'm feeling very orangey blue
