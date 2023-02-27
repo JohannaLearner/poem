@@ -20,5 +20,6 @@ Avec le soleil
 
 Tout au long de tes jours
 te precedra ton enfance.
+[Reference Andree Chedid](https://fr.wikipedia.org/wiki/Andr%C3%A9e_Chedid)
 
 Mais ca marche.
