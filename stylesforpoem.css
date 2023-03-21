@@ -4,4 +4,15 @@ body {
     color: #c42020;
     margin: 0 auto;
     padding: 10px 10px 10px 10px;
+} 
+.header {
+    background-color: #be3455;
+    text-align: center;
+    color: #fff;
+} 
+
+.header h1 {
+    font-size: 18px;
+    text-align: center;
+    color: #fff;
 }
