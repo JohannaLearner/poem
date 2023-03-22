@@ -11,7 +11,7 @@ body {
     padding: 30px;
 }
 
-.bodytext h1
+.bodytext h1,h2,h3
  {
     color:#be3455;
 }
@@ -26,7 +26,7 @@ img {
 
 
 .header {
-    background-color: #be3455;
+    background-image:url("../assets/viva_magenta_header_background.jpg");
     text-align: center;
     color: #fff;
     padding: 50px;
