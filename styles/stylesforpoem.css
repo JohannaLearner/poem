@@ -18,55 +18,45 @@ h1 h2 h3 h4 h5 h6 {
 nav ul {
     list-style-type: none;
     color: inherit;
-    font-size:inherit;
-    
+    font-size:inherit;}
+
+
+/*styles for top nav*/
+
+.top_nav {
 
 }
 
 
 
-
-
-
+/*styles for main section styling*/
 
 .bodytext {
 
     padding: 1rem;
 }
 
-.bodytext h1,h2,h3
- {
-    color:#be3455;
-}
-.bodytext
 
 
-.navlist ul {
-    list-style-type: none;
-    color: #fff;
-    font-size: 16px;
-}
+
 
 
 img {
-       padding: 20px;
         display: block;
         margin-left: auto;
         margin-right: auto;
         width: 100%;
-        max-width: 600px;
+        max-width: 500px;
     }
 
 
 .header {
     background-image:url("../assets/viva_magenta_header_background.jpg");
-    text-align: center;
     color: #fff;
-    padding: 50px;
+    padding: 1rem;
 } 
 
 .header h1 {
-    font-size: 18px;
-    text-align: center;
+    font-size: 1rem;
     color: #fff;
 }
