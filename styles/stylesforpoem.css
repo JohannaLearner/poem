@@ -1,22 +1,55 @@
+/*Basic Styles*/
+* {
+    box-sizing: border-box;
+}
+
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 1em;
+    font-size: 1rem;
     color: #3b1d1d;
-    margin: 0 auto;
-    
+    margin: 0;
+    padding:0;   
 } 
+
+h1 h2 h3 h4 h5 h6 {
+    color:#be3455;
+}
+
+nav ul {
+    list-style-type: none;
+    color: inherit;
+    font-size:inherit;
+    
+
+}
+
+
+
+
+
+
 
 .bodytext {
 
-    padding: 30px;
+    padding: 1rem;
 }
 
 .bodytext h1,h2,h3
  {
     color:#be3455;
 }
+.bodytext
+
+
+.navlist ul {
+    list-style-type: none;
+    color: #fff;
+    font-size: 16px;
+}
+
+
 img {
-        padding: 20px;
+       padding: 20px;
         display: block;
         margin-left: auto;
         margin-right: auto;
