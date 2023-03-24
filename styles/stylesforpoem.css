@@ -4,28 +4,53 @@
 }
 
 body {
+    display:flex;
+    flex-direction: column;
+    margin: 0;
+    padding:0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1rem;
     color: #3b1d1d;
-    margin: 0;
-    padding:0;   
-} 
+    max-width: 100vw;
+    min-height:100vw;}
+   
+
 
 h1 h2 h3 h4 h5 h6 {
     color:#be3455;
 }
-
-nav ul {
-    list-style-type: none;
-    color: inherit;
-    font-size:inherit;}
-
-
 /*styles for top nav*/
 
 .top_nav {
+    
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:space-between;}
 
+    /*styles for top nav menu items*/
+
+.nav_list
+    {display: flex;
+    flex-direction: row;
+    align-content:flex-start;
+    list-style-type: none;
 }
+
+.top_nav h1{
+    color:#fff;
+    font-size: 1rem;
+}
+.nav_list li {
+    padding: 0 0 0 1rem;}
+
+    a {
+        color: #fff;
+        text-decoration:none;
+    }
+
+   
+
 
 
 
@@ -52,11 +77,6 @@ img {
 
 .header {
     background-image:url("../assets/viva_magenta_header_background.jpg");
-    color: #fff;
     padding: 1rem;
 } 
 
-.header h1 {
-    font-size: 1rem;
-    color: #fff;
-}
