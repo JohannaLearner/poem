@@ -176,18 +176,31 @@ header a {
         display:flex;
         flex-direction:row;
         justify-content: space-between;
-        gap: var(--xlarge)
+        gap: var(--large)
         padding: var(--small);
         align-items: baseline;
-        
-    }
+         }
 
     .site_logo
-    {}
+    {padding-left: 20px;}
 
     header nav ul {
         display:flex;
         flex-direction: row;
         gap: var(--small);
+        padding-right: 20px;
+    }
+
+    .poetry {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        gap: 40px;
+    }
+
+    main {
+        max-width: 900px;
+        padding: 60px 60px 60px 60px;
+        margin: 0 auto;
     }
 }
