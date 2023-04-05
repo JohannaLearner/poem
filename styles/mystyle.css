@@ -169,20 +169,21 @@ header a {
 
 
 /* media queries* for large screens*/
-@media screen and (min-width: 601px) {
-    /*body {
-    display: flex;
-    flex-direction:row;
-    justify-content: space-between;}*/
-
+@media screen and (min-width: 601px) 
+{
+    
     header {
         display:flex;
         flex-direction:row;
         justify-content: space-between;
+        gap: var(--xlarge)
         padding: var(--small);
         align-items: baseline;
         
     }
+
+    .site_logo
+    {}
 
     header nav ul {
         display:flex;
