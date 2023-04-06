@@ -52,6 +52,10 @@ header nav ul {
     padding: var(--xsmall) 0 var(--xsmall) 0;
 }
 
+header li a{
+    box-shadow: 0px 3px 15px #888888;
+}
+
 .site_logo {
     font-size: var(--normal);
     color:var(--oncolor)
