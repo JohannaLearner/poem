@@ -5,9 +5,10 @@
 :root {
 
     --bgcolor: rgb(253, 239, 253);
-    --oncolor: hsl(346, 67%, 77%);
+    --oncolor: #ec9daf;
     --fontdark: #414141;
-    --alternative: #1c637d;
+    --alternative: #7fbdae;
+    --accent: #ecb39d;
 
     --xsmall: 0.5rem;
     --small: calc(var(--xsmall)*1.5);
@@ -29,10 +30,11 @@
 }
 /*Global Styles*/
 body {
-    display: flex;
-    flex-direction: column;
+    /*display:flex;
+    flex-direction: column wrap;*/
     font-family: "Montserrat", sans-serif;
     color: var(--fontdark);
+    
 }
 
 /*header styling */
@@ -48,23 +50,26 @@ header nav ul {
     list-style-type: none;
     display: flex;
     flex-direction: column;
+    gap: 10px;
     align-items: center;   
     padding: var(--xsmall) 0 var(--xsmall) 0;
 }
 
 header li a{
-    box-shadow: 0px 3px 15px #888888;
+    color: var(--)
+   
 }
 
-.site_logo {
+.site_logo a{
     font-size: var(--normal);
-    color:var(--oncolor)
+    color:var(--oncolor);
 }
 a {
     text-decoration: none;
 }
 header a:hover {
     color: var(--alternative);
+    box-shadow: 0 2px 15px var(--oncolor);
 }
 
 header a {
@@ -75,8 +80,23 @@ header a {
 main {
     color: var(--fontdark);
     font-size: var(--normal);
-    padding: var(--large)
+    padding: var(--small);
+    
+
+
+   
+   
 }
+
+main section {
+min-height: calc(100svh - var(--small));
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+
 
 main a {
     color: var(--oncolor)
@@ -105,6 +125,11 @@ main h3 {
 
 main p {
     padding: var(--small) 0 var(--small) 0;
+}
+
+img {
+    display: flex;
+    flex-flow: column nowrap;
 }
 
 /*poets sections to create card like effect*/
@@ -180,7 +205,7 @@ header a {
         display:flex;
         flex-direction:row;
         justify-content: space-between;
-        gap: var(--large)
+        gap: var(--large);
         padding: var(--small);
         align-items: baseline;
          }
